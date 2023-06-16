@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Tubes</string>
+    <string name="app_name">SHOWROOM K7_A</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">ShowRoom</string>
-    <string name="nav_header_subtitle">Praktikum Pemrograman Mobile</string>
+    <string name="nav_header_title">USERNMAE</string>
+    <string name="nav_header_subtitle">username01@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_refresh">Refresh</string>
 
