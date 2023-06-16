@@ -17,8 +17,8 @@ class AnggotaFragment : Fragment() {
     data class Person(val npm: String, val nama: String)
 
     private val peopleList: List<Person> = listOf(
-        Person("203040045", "M. Egi Rahayu"),
         Person("203040049", "Nikolas Ramadhan"),
+        Person("203040045", "M. Egi Rahayu"),
         Person("203040004", "Hasbulah Shopari"),
         Person("203040046", "Alif Luqman Hakim"),
         Person("203040028", "Salsabila Firdausi")
